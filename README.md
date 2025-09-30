@@ -21,6 +21,6 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/opencv-practice.git
+git clone https://github.com/Shlok8906/opencv-practice.git
 cd opencv-practice
 pip install -r requirements.txt
